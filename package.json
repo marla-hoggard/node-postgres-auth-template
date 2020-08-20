@@ -8,7 +8,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "bcrypt": "^4",
+    "bcrypt": "^5",
     "express": "^4.17.1",
     "knex": "^0.21.3",
     "pg": "^8.3.0"
